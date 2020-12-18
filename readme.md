@@ -3,7 +3,6 @@
 #
 #
 # Testing testing testing
-# And antoher line
 # 
 # List od added plugins: Python
 #
