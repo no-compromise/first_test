@@ -1,8 +1,4 @@
-# TEST file
-# This is a test file
-#
-#
-# Testing testing testing
-# 
-# List od added plugins: Python
-#
+Test project 
+
+Trying to learn Python :)
+
